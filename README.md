@@ -16,7 +16,7 @@ This mod adds speech bubbles for all characters with battle voicelines!
 - To disable this mod, simply remove the Lang Folder and restart the game, or Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
 
 ## Downsides & Issues
-### This covers every battle voiceline in the game!!! So there might be a few characters missing lines if I've missed them, or if I've put the wrong voiceline ID.
+### This covers every battle voiceline in the game!!! So there might be a few characters missing lines if I've missed them, or if I've put the wrong voiceline ID, LMK if there are any!
 
 - Some voicelines cannot display speech bubbles (e.g. Devyat's Polu or Full-stop Heathcliff in Overwatch state).  
 - Font may not match the base game... but you can use your own custom fonts!  
@@ -30,10 +30,10 @@ This mod adds speech bubbles for all characters with battle voicelines!
 
 ### Honestly I recommend you to not use this mod at all when there is new story content, so finish and enjoy the story first and then use the mod!
 
-## Voicelines That Don't Work
+## Known Voicelines That Don't Work
 - Devyat North Sinclair & Rodion All Poludnitsa Lines (Except the death ones cause i can fit it in with their death lines.)
 - Overwatch Assignment Full-stop Heathcliff Combo Voicelines (He's not in battle, i could try to put it with FS Hong Lu's line, but his line has two variants so... i guess i'll put both!)
-- N Corp Ryoshu and Yi Sang Skill Combo I Shall Fire // Anytime (Yeah the speech bubble just doesn't want to appear above her head at all, and yes it is the correct ID)
+- N Corp Ryoshu and Yi Sang Skill Combo I Shall Fire // Anytime (Yeah the speech bubble just doesn't want to appear above her head at all, and yes it is the correct ID.)
 
 ## Credits
 Goliath for telling me how to do this, they make a Russian translation custom langauge mod.

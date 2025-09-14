@@ -9,7 +9,7 @@ This mod adds speech bubbles for all characters with battle voicelines!
 3. Navigate to:  
    `C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_Data`
 4. Drag the "Lang" folder from the extracted files into the "LimbusCompany_Data" folder.
-5. Launch the game, select "Custom Language," choose **SpeechDialogBoxesEN - NotherWael**, and restart the game.  
+5. Launch the game, click on "Select Custom Language," choose **SpeechDialogBoxesEN - NotherWael**, and restart the game.  
    - If it’s already selected, you can skip this step.
 6. Enjoy the mod!
 

@@ -16,6 +16,9 @@ This mod adds speech bubbles for all characters with battle voicelines!
 - To update, do the same steps and replace the old files with the new ones.
 - To disable this mod, simply remove the Lang Folder and restart the game, or Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
 
+### When new story content or identities are added, please DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like softlocking)
+### Honestly I recommend you to not use this mod at all when there is new story content, so finish and enjoy the new story first and then use the mod!
+
 ## Downsides & Issues
 ### This covers every battle voiceline in the game!!! So there might be a few characters missing lines if I've missed them, or if I've put the wrong voiceline ID, LMK if there are any!
 
@@ -25,11 +28,6 @@ This mod adds speech bubbles for all characters with battle voicelines!
 - Game start-up screen menu loading may take ages! (though it might be cause of my weak device... so i'm not sure) 
 - Speech bubbles stay longer than they have to blocking visibility on skills during combat.
 - Speech bubbles can end early because of the previous speech bubble before it.
-
-- When new story content or identities are added, please DISABLE the mod!!! and wait for a new update on this repository.
-(or else you would face issues like softlocking)
-
-### Honestly I recommend you to not use this mod at all when there is new story content, so finish and enjoy the new story first and then use the mod!
 
 ## Known Voicelines That Do Not Work
 - Devyat North Sinclair & Rodion All Poludnitsa Lines (Except the death ones cause i can fit it in with their death lines.)

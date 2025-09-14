@@ -21,12 +21,12 @@ This mod adds speech bubbles for all characters with battle voicelines!
 - Some voicelines cannot display speech bubbles (e.g. Devyat's Polu or Full-stop Heathcliff in Overwatch state).  
 - Font may not match the base game... but you can use your own custom fonts!  
 - A green icon appears in the top-right corner during battle or story, indicates you are using a custom language mod.  
-- Game start menu loading may take ages! (though might be cause of my weak device...) 
+- Game start-up screen menu loading may take ages! (though it might be cause of my weak device... so i'm not sure) 
 - Speech bubbles stay longer than they have to blocking visibility on skills during combat.
 - Speech bubbles can end early because of the previous speech bubble before it.
 
 - When new story content or identities are added, please DISABLE the mod!!! and wait for a new update on this repository.
-(or else you would face issues)
+(or else you would face issues like softlocking)
 
 ### Honestly I recommend you to not use this mod at all when there is new story content, so finish and enjoy the story first and then use the mod!
 

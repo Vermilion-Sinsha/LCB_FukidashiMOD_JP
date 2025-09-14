@@ -3824,7 +3824,7 @@
       "dlg": "Fire."
     },
 	{
-      "id": "battle_s3_11107_1_2-02",
+      "id": "battle_s3_11107_1_2-01",
       "desc": "",
       "dlg": "Fire!"
     },
@@ -4848,7 +4848,7 @@
       "dlg": "So this is how I… in this wandering path with no end in sight…"
     },
 	{
-      "id": "battle_s3_11110_1_4(대사)",
+      "id": "battle_s3_11110_1_4",
       "desc": "",
       "dlg": "Ripping dimension!"
     },
@@ -6822,7 +6822,11 @@
       "desc": "",
       "dlg": "Let nothing remain."
     },
-	
+	{
+      "id": "battle_s2_10913_1_2-02",
+      "desc": "",
+      "dlg": "Ghk..."
+    },
 	
 	
 	

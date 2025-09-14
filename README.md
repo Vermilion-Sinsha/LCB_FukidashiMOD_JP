@@ -30,6 +30,11 @@ This mod adds speech bubbles for all characters with battle voicelines!
 
 ### Honestly I recommend you to not use this mod at all when there is new story content, so finish and enjoy the story first and then use the mod!
 
+## Voicelines That Don't Work
+- Devyat North Sinclair & Rodion All Poludnitsa Lines (Except the death ones cause i can fit it in with their death lines.)
+- Overwatch Assignment Full-stop Heathcliff Combo Voicelines (He's not in battle, i could try to put it with FS Hong Lu's line, but his line has two variants so... i guess i'll put both!)
+- N Corp Ryoshu and Yi Sang Skill Combo I Shall Fire // Anytime (Yeah the speech bubble just doesn't want to appear above her head at all, and yes it is the correct ID)
+
 ## Credits
 Goliath for telling me how to do this, they make a Russian translation custom langauge mod.
 https://github.com/Divine-Company/DivineCompany_RussianTranslationDepartment

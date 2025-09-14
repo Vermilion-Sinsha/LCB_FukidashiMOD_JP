@@ -16,6 +16,8 @@ This mod adds speech bubbles for all characters with battle voicelines!
 - To disable this mod, simply remove the Lang Folder and restart the game, or Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
 
 ## Downsides & Issues
+### This covers every battle voiceline in the game!!! So there might be a few characters missing lines if i missed them, or i've put the wrong voiceline ID.
+
 - Some voicelines cannot display speech bubbles (e.g. Devyat's Polu or Full-stop Heathcliff in Overwatch state).  
 - Font may not match the base game... but you can use your own custom fonts!  
 - A green icon appears in the top-right corner during battle or story, indicates you are using a custom language mod.  

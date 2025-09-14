@@ -4101,7 +4101,7 @@
 	{
       "id": "battle_s3_10508_1_1-02",
       "desc": "",
-      "dlg": "Yield my flesh!"
+      "dlg": "Yield my flesh..."
     },
 	{
       "id": "battle_s3_10508_1_4",
@@ -4740,9 +4740,9 @@
       "dlg": "Enforcing time collection."
     },
 	{
-      "id": "battle_s3_10309_1_3",
-      "desc": "Ah this might look awkward...................",
-      "dlg": "... Accelerate!"
+      "id": "battle_s3_10309_1_3-02",
+      "desc": "",
+      "dlg": "Accelerate!"
     },
 	
 	
@@ -5220,7 +5220,7 @@
 	{
       "id": "battle_g3_10810_1-02",
       "desc": "",
-      "dlg": "Greatsword guard."
+      "dlg": "Greatsword Guard."
     },
 	
 	
@@ -6879,9 +6879,13 @@
 	{
       "id": "battle_s3_11113_1_1",
       "desc": "",
-      "dlg": "With maximum activation... Executing!"
+      "dlg": "With maximum activation..."
     },
-	
+	{
+      "id": "battle_s3_11113_1_2",
+      "desc": "",
+      "dlg": "Executing!"
+    },
 	
 	
 	
@@ -7268,7 +7272,7 @@
     },
 	{
       "id": "battle_special_10412_2-01",
-      "desc": "same as above",
+      "desc": "Same as above",
       "dlg": "But now's not the time to leave our masterpiece unfinished."
     },
     {

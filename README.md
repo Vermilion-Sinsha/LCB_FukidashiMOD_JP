@@ -17,6 +17,7 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
   <summary>Should Look Like This! - Click!</summary>
       <img src="Screenshot/Likethis.png" alt="Likethis"/>
 </details>
+
 6. Launch the game, click on "Select Custom Language," choose **SpeechDialogBoxesEN - NotherWael**, and restart the game.  
    - If it’s already selected, you can skip this step.
 7. Enjoy the mod!

@@ -3076,9 +3076,9 @@
       "dlg": "Haah... Sorry about that... Client fella..."
     },
 	{
-      "id": "battle_s3_11206_1_1",
+      "id": "battle_s3_11206_1_1_03_1",
       "desc": "",
-      "dlg": "... That's enough!"
+      "dlg": "That's enough!"
     },
 	
 	
@@ -5407,7 +5407,7 @@
       "dlg": "Urgh... Blood... Blood!"
     },
 	{
-      "id": "battle_s3_11210_1",
+      "id": "battle_s3_11210_1-03",
       "desc": "",
       "dlg": "Hngh...? Blood...? Blood!"
     },
@@ -5653,7 +5653,7 @@
       "dlg": "Time to end this."
     },
 	{
-      "id": "battle_dead_10310_1",
+      "id": "battle_react_10310_9",
       "desc": "",
       "dlg": "Focus on the feast in front of your eyes."
     },

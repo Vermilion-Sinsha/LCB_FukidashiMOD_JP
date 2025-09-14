@@ -5610,7 +5610,7 @@
 	{
       "id": "battle_react_10310_3-4",
       "desc": "",
-      "dlg": "Variant Sancho Hardblood Arts 6th..."
+      "dlg": "Variant Sancho\nHardblood Arts 6th..."
     },
 	{
       "id": "battle_react_10310_3-4-1",
@@ -5620,7 +5620,7 @@
 	{
       "id": "battle_react_10310_4-4",
       "desc": "",
-      "dlg": "Variant Sancho Hardblood Arts 8th..."
+      "dlg": "Variant Sancho\nHardblood Arts 8th..."
     },
 	{
       "id": "battle_react_10310_4-4-1",
@@ -5645,7 +5645,7 @@
 	{
       "id": "battle_react_10310_5-2",
       "desc": "",
-      "dlg": "Ascendant Sancho Hardblood Arts...\n<i>La Sangre.</i>"
+      "dlg": "Ascendant Sancho\nHardblood Arts...\n<i>La Sangre.</i>"
     },
 	{
       "id": "battle_react_10310_5-2-1",
@@ -5724,12 +5724,12 @@
 	{
       "id": "battle_special_10611_2_2",
       "desc": "",
-      "dlg": "Take care of them.\n<i>Okay, I see 'em</i> /// <i>Alright, Target confirmed.</i>"
+      "dlg": "Take care of them.\n<i>Okay, I see 'em</i> ///\n<i>Alright, Target confirmed.</i>"
     },
 	{
       "id": "battle_special_10611_2_1-01",
       "desc": "",
-      "dlg": "Finish them off.\n<i>Okay, I see 'em.</i> /// <i>Move aside!</i>"
+      "dlg": "Finish them off.\n<i>Okay, I see 'em.</i> ///\n<i>Move aside!</i>"
     },
 	{
       "id": "battle_special_10611_1_1",
@@ -7215,7 +7215,7 @@
     {
       "id": "battle_dead_10412_1",
       "desc": "",
-      "dlg": "Hah… even the gaze that once embraced me… contemns me… How electrifying."
+      "dlg": "Hah… even the gaze that once embraced me…\ncontemns me… How electrifying."
     },
 	{
       "id": "battle_endcommand_10412_1",
@@ -7225,7 +7225,7 @@
 	{
       "id": "battle_enemy_break_10412_1",
       "desc": "",
-      "dlg": "That gaze… how contemptuous."
+      "dlg": "That gaze…\nhow contemptuous."
     },
 	{
       "id": "battle_kill_10412_1",
@@ -7245,17 +7245,22 @@
     {
       "id": "battle_s3_10412_1_4",
       "desc": "",
-      "dlg": "Crimson red contempt."
+      "dlg": "Crimson Red Contempt."
     },
     {
       "id": "battle_special_10412_1",
       "desc": "",
-      "dlg": "So it’s this one this time? Heh. I’ll cut in too."
+      "dlg": "So it’s this one this time?\nHeh. I’ll cut in too."
     },
     {
-      "id": "???",
-      "desc": "",
-      "dlg": "Getting hit by your bullet like this might be its own kind of art… \nbut now's not the time to leave our masterpiece unfinished."
+      "id": "battle_special_10412_2",
+      "desc": "Yeah this line doesn't work at all and the 2nd one too",
+      "dlg": "Getting hit by your bullet like this might be its own kind of art…"
+    },
+	{
+      "id": "battle_special_10412_2-01",
+      "desc": "same as above",
+      "dlg": "But now's not the time to leave our masterpiece unfinished."
     },
     {
       "id": "battle_special_10412_3",

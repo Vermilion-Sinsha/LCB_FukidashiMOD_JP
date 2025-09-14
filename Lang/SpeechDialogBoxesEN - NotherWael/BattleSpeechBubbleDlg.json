@@ -609,7 +609,7 @@
 	{	
       "id": "7SV-032",
       "desc": "",
-      "dlg": "Haha! This is the best! Tearing and stitching~!"
+      "dlg": "Haha! This is the best!\nTearing and stitching~!"
     },
 	
 	
@@ -634,14 +634,14 @@
       "dlg": "This amount of blood is not enough..."
     },
 	{	
-      "id": "7SV-045",
+      "id": "7SV-042",
       "desc": "",
-      "dlg": "This amount of blood is not enough..."
+      "dlg": "Let us begin the finale."
     },
 	{	
       "id": "7SV-044",
       "desc": "",
-      "dlg": "The parade... Where would it ever end?"
+      "dlg": "The parade...\nWhere would it ever end?"
     },
 	{	
       "id": "7SV-040",
@@ -656,7 +656,7 @@
 	{	
       "id": "7SV-046",
       "desc": "",
-      "dlg": "Who said you could rest? Get up, now.\nWe have to keep marching."
+      "dlg": "Who said you could rest?\nGet up, now.\nWe have to keep marching."
     },
 	
 	{	
@@ -667,7 +667,7 @@
 	{	
       "id": "7SV-095",
       "desc": "",
-      "dlg": "It is a pain... that must be endured!"
+      "dlg": "It is a pain...\nthat must be endured!"
     },
 	{	
       "id": "7SV-101",
@@ -677,7 +677,7 @@
 	{	
       "id": "7SV-098",
       "desc": "",
-      "dlg": "After burying all my family... I also will... soon follow them."
+      "dlg": "After burying all my family...\nI also will... soon follow them."
     },
 	{	
       "id": "7SV-094",
@@ -709,7 +709,7 @@
 	{	
       "id": "7SV-056",
       "desc": "",
-      "dlg": "Annoying... just die already...!"
+      "dlg": "Annoying... Just die already...!"
     },
 	{	
       "id": "7SV-053-03",
@@ -779,7 +779,7 @@
 	{	
       "id": "7SV-058",
       "desc": "",
-      "dlg": "That's just attachment, my dream has already ended."
+      "dlg": "That's just attachment,\nmy dream has already ended."
     },
 	{	
       "id": "7SV-059",
@@ -870,7 +870,7 @@
 	{	
       "id": "7SV-083",
       "desc": "",
-      "dlg": "I've endured so much... But in the end...\nI too am stained by providence."
+      "dlg": "I've endured so much...\nBut in the end...\nI too am stained by providence."
     },
 	{	
       "id": "7SV-084",
@@ -880,12 +880,12 @@
 	{	
       "id": "7SV-078",
       "desc": "",
-      "dlg": "Should I quench my thirst...? I wonder!"
+      "dlg": "Should I quench my thirst...?\nI wonder!"
     },
 	{	
       "id": "7SV-082",
       "desc": "",
-      "dlg": "Stay still... and remain frozen in place."
+      "dlg": "Stay still...\nand remain frozen in place."
     },
 	{	
       "id": "7SV-074",
@@ -943,7 +943,7 @@
 	{	
       "id": "5SV-008",
       "desc": "",
-      "dlg": "'Facing Battle, To Slay The Enemy...' There are variations."
+      "dlg": "'Facing Battle, To Slay The Enemy...'\nThere are variations."
     },
 	{	
       "id": "5SV-007",
@@ -953,7 +953,7 @@
 	{	
       "id": "5SV-009",
       "desc": "",
-      "dlg": "Haah... 'Blade Dance Under the Blue Moon.'"
+      "dlg": "Haah...\n'Blade Dance Under the Blue Moon.'"
     },
 	{	
       "id": "5SV-010",
@@ -5369,7 +5369,7 @@
       "dlg": "Look forward to it."
     },
 	{
-      "id": "battle_s3_11111_1_1-02",
+      "id": "battle_s3_11111_1_1-03",
       "desc": "",
       "dlg": "Look forward to it."
     },

@@ -13,7 +13,7 @@ This mod adds speech bubbles for all characters with battle voicelines!
    - If it’s already selected, you can skip this step.
 6. Enjoy the mod!
 
-- To Update, do the same steps and replace the old files with the new ones.
+- To update, do the same steps and replace the old files with the new ones.
 - To disable this mod, simply remove the Lang Folder and restart the game, or Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
 
 ## Downsides & Issues
@@ -29,9 +29,9 @@ This mod adds speech bubbles for all characters with battle voicelines!
 - When new story content or identities are added, please DISABLE the mod!!! and wait for a new update on this repository.
 (or else you would face issues like softlocking)
 
-### Honestly I recommend you to not use this mod at all when there is new story content, so finish and enjoy the story first and then use the mod!
+### Honestly I recommend you to not use this mod at all when there is new story content, so finish and enjoy the new story first and then use the mod!
 
-## Known Voicelines That Don't Work
+## Known Voicelines That Do Not Work
 - Devyat North Sinclair & Rodion All Poludnitsa Lines (Except the death ones cause i can fit it in with their death lines.)
 - Overwatch Assignment Full-stop Heathcliff Combo Voicelines (He's not in battle, i could try to put it with FS Hong Lu's line, but his line has two variants so... i guess i'll put both!)
 - N Corp Ryoshu and Yi Sang Skill Combo I Shall Fire // Anytime (Yeah the speech bubble just doesn't want to appear above her head at all, and yes it is the correct ID.)

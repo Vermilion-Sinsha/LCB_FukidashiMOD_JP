@@ -13,7 +13,7 @@ This mod adds speech bubbles for all characters with battle voicelines!
    - If it’s already selected, you can skip this step.
 6. Enjoy the mod!
 
-## Bugs & Issues
+## Downsides & Issues
 - Some voicelines cannot display speech bubbles (e.g., Devyat's Polu or Full-stop Heathcliff in Overwatch state).  
 - Font may not match the base game... but you can use your own custom fonts!  
 - A green icon appears in the top-right corner indicates you are using a language mod.  

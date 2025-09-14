@@ -3,6 +3,8 @@
 This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)
 
+# Do NOTE That The Untranslated Voicelines are Unofficial Can Be Wrong at times!
+
 ## Installation
 ### When new story content or identities are added, please DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like softlocking)
 ### Honestly I recommend you to not use this mod at all when there is new story content, so finish and enjoy the new story first and then use the mod!
@@ -17,6 +19,12 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 
 - To update, do the same steps and replace the old files with the new ones.
 - To disable this mod, simply remove the Lang Folder and restart the game, or Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
+
+## Q&A
+1. Is this bannable?
+   - No! it's not, it's a custom language mod supported by PM, It just changes the localization files.
+2. How is this done?
+   - Using the file `BattleSpeechBubbleDlg.json` you can add your own speech bubble text! (just needs the Voiceline ID and the text.)
 
 ## Downsides & Issues
 ### This covers every battle voiceline in the game!!! So there might be a few characters missing lines if I've missed them, or if I've put the wrong voiceline ID, LMK if there are any!

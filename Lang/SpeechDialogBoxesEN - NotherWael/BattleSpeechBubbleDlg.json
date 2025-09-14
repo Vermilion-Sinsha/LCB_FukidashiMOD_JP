@@ -523,6 +523,11 @@
       "desc": "",
       "dlg": "Queequeg, my best harpooner...\nSever that knot! Before my eyes!"
     },
+	{	
+      "id": "battle_selection2_8105_1-01",
+      "desc": "1On death in MD",
+      "dlg": "Once an Ahab... shall be Ahab evermore...!"
+    },
 
 	{	
       "id": "battle_s5_8173_1-01",

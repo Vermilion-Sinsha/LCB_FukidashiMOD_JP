@@ -13,6 +13,7 @@ This mod adds speech bubbles for all characters with battle voicelines!
    - If it’s already selected, you can skip this step.
 6. Enjoy the mod!
 
+- To Update, do the same steps and replace the old files with the new ones.
 - To disable this mod, simply remove the Lang Folder and restart the game, or Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
 
 ## Downsides & Issues

@@ -39,8 +39,9 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 ## Q&A
 1. Is this bannable?
    - No! it's not, it's a custom language mod supported by PM, It just changes the localization files.
-PM Stated "Please note that, modification of the game client beyond the language text files, such as modification of client images or in-game data could be met with legal action or bans without prior warning"
-This Mod only modifies langauge text files, so it's safe. [Link](https://store.steampowered.com/news/app/1973530/view/533220039674824558)
+   - PM stated "Please note that, modification of the game client beyond the language text files, such as modification of client images or in-game data could be met with legal action or bans without prior warning"
+   - This Mod only modifies langauge text files, so it's safe. [Link For the Notice](https://store.steampowered.com/news/app/1973530/view/533220039674824558)
+
 2. How is this done?
    - Using the file `BattleSpeechBubbleDlg.json` you can add your own speech bubble text! (just needs the Voiceline ID and the text.)
 

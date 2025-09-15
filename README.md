@@ -54,6 +54,7 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 - Game start-up screen menu loading may take ages! (though it might be cause of my weak device... so i'm not sure) 
 - Speech bubbles stay longer than they have to blocking visibility on skills during combat.
 - Speech bubbles can end early because of the previous speech bubble before it.
+- Retreating IDs move their Speech bubbles to the Substituted ID.
 
 ## Known Voicelines That Do Not Work
 - Devyat North Sinclair & Rodion All Poludnitsa Lines (Except the death ones cause i can fit it in with their death lines.)

@@ -6863,12 +6863,6 @@
       "desc": "",
       "dlg": "Let nothing remain."
     },
-	{
-      "id": "battle_s2_10913_1_2-02",
-      "desc": "",
-      "dlg": "Ghk..."
-    },
-	
 	
 	
 	
@@ -7274,7 +7268,7 @@
 	{
       "id": "battle_enemy_break_10412_1",
       "desc": "",
-      "dlg": "That gaze…\nhow contemptuous."
+      "dlg": "That gaze…\nHow contemptuous."
     },
 	{
       "id": "battle_kill_10412_1",

@@ -6088,6 +6088,42 @@
 	
 	
 	
+	{
+      "id": "battle_select_10311_1",
+      "desc": "############ Cinq East DonQ ############",
+      "dlg": "'Tis an emergency, hm? Do know that it shall cost thee a tad more!"
+    },
+    {
+      "id": "battle_endcommand_10311_1",
+      "desc": "",
+      "dlg": "The virescent pyrojade burneth."
+    },
+    {
+      "id": "battle_enemy_break_10311_1",
+      "desc": "",
+      "dlg": "This duel!"
+    },
+    {
+      "id": "battle_kill_10311_1",
+      "desc": "",
+      "dlg": "Endeth with my victory!"
+    },
+    {
+      "id": "battle_break_10311_1",
+      "desc": "",
+      "dlg": "Hup?!"
+    },
+	{
+      "id": "battle_dead_10311_1",
+      "desc": "",
+      "dlg": "Ahaaa… 'twas… quite education…al…"
+    },
+	{
+      "id": "battle_s3_10311_1_3",
+      "desc": "",
+      "dlg": "Finish!"
+    },
+	
 	
 	
 	{

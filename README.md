@@ -6,7 +6,7 @@ This mod adds speech bubbles for all characters with battle voicelines!
 # Do NOTE That The Untranslated Voicelines are Unofficial Can Be Wrong at times!
 
 ## Installation
-### When new story content or identities are added, please DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like softlocking)
+### When new story content or identities are added, please DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like [softlocking](https://www.youtube.com/watch?v=nHrCFfdBMAA))
 ### Honestly I recommend you to not use this mod at all when there is new story content, so finish and enjoy the new story first and then use the mod!
 1. Click **Code** → **Download ZIP** on this GitHub repository.
 2. Open or Extract the ZIP file.
@@ -48,19 +48,19 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 ## Downsides & Issues
 ### This covers every battle voiceline in the game!!! So there might be a few characters missing lines if I've missed them, or if I've put the wrong voiceline ID, LMK if there are any!
 
-- Some voicelines cannot display speech bubbles (e.g. Devyat's Polu or Full-stop Heathcliff in Overwatch state).  
+- Some voicelines cannot display speech bubbles (e.g., Devyat's Polu or Full-stop Heathcliff in Overwatch state).  
 - Font may not match the base game... (like Mikodacs Font, not having Letter Spacing from the base game.) but you can use your own custom fonts!  
 - A green icon appears in the top-right corner during battle or story, indicates you are using a custom language mod.  
 - Game start-up screen menu loading may take ages! (though it might be cause of my weak device... so i'm not sure) 
 - Speech bubbles stay longer than they have to blocking visibility on skills during combat.
 - Speech bubbles can end early because of the previous speech bubble before it.
-- Retreating IDs move their Speech bubbles to the Substituted ID.
+- Retreating IDs VLs move their Speech bubbles to the Substituted ID.
 
 ## Known Voicelines That Do Not Work
 - Devyat North Sinclair & Rodion All Poludnitsa Lines (Except the death ones cause i can fit it in with their death lines.)
 - Overwatch Assignment Full-stop Heathcliff Combo Voicelines (He's not in battle, i could try to put it with FS Hong Lu's line, but his line has two variants so... i guess i'll put both!)
 - N Corp Ryoshu and Yi Sang Skill Combo I Shall Fire // Anytime (Yeah the speech bubble just doesn't want to appear above her head at all, and yes i did check if it's the correct ID.)
-- Bloodfiend Trio Stage Turn Start VLs Don't Work Except for The Priest. (Their Skill VLs work tho... and some of these turn start voicelines work on their respective stages.)
+- Bloodfiend Trio Stage Turn Start VLs Don't Work Except for The Priest. (Their Skill VLs work tho... and some of these turn start voicelines do work on their respective stages.)
 
 ## Credits
 Goliath for telling me how to do this, they make a Russian translation custom langauge mod.

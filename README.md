@@ -23,6 +23,7 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 
 5. Launch the game, click on "Select Custom Language," choose **SpeechDialogBoxesEN - NotherWael**, and restart the game.  
    - If it’s already selected, you can skip this step.
+   <img src="Screenshot/SelectTL.png" alt="SelectTL"/>
 6. Enjoy the mod!
 
 - To update, do the same steps and replace the old files with the new ones.

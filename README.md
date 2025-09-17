@@ -4,6 +4,9 @@ This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)
 
 # Do NOTE That The Untranslated Voicelines are Unofficial Can Be Wrong at times!
+<img src="Screenshot/Hehehaha.png" alt="Hehehaha"/>
+<img src="Screenshot/LaShangure.png" alt="LaShangure"/>
+<img src="Screenshot/Shooting.png" alt="Shooting"/>
 
 ## Installation
 ### When new story content or identities are added, please DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like [softlocking](https://www.youtube.com/watch?v=nHrCFfdBMAA))

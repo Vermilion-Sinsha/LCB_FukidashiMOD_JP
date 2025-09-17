@@ -12,7 +12,13 @@ This mod adds speech bubbles for all characters with battle voicelines!
 2. Open or Extract the ZIP file.
 3. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
 Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_Data`
-4. Drag the "Lang" folder from the ZIP file into the "LimbusCompany_Data" folder.
+<details>
+  <summary>You Can Do This Through Steam! - Click!</summary>
+      <img src="Screenshot/Browselocalfiless.png" alt="Browselocalfiless"/>
+      <img src="Screenshot/datass.png" alt="datass"/>
+</details>
+
+5. Drag the "Lang" folder from the ZIP file into the "LimbusCompany_Data" folder.
 <details>
   <summary>Should Look Like This! - Click!</summary>
       <img src="Screenshot/Likethis.png" alt="Likethis"/>

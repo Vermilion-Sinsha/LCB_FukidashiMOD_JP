@@ -931,7 +931,7 @@
 	{	
       "id": "5SV-003",
       "desc": "",
-      "dlg": "No, no, no! The dreams of the neighbors!!!"
+      "dlg": "No, no, no!\nThe dreams of the neighbors!!!"
     },
 	
 	
@@ -4330,7 +4330,7 @@
 	{
       "id": "battle_s3_11108_1_2-01",
       "desc": "",
-      "dlg": "... All the filth."
+      "dlg": "... all the filth."
     },
 
 
@@ -4399,7 +4399,12 @@
 	{
       "id": "battle_s3_11209_1",
       "desc": "",
-      "dlg": "This must be... your vital point!"
+      "dlg": "This must be..."
+    },
+	{
+      "id": "battle_s3_11209_2",
+      "desc": "",
+      "dlg": "... your vital point!"
     },
 	
 	
@@ -5024,7 +5029,7 @@
 	{
       "id": "battle_add_10710_1",
       "desc": "",
-      "dlg": "Dullahan!\nTime to ride for death."
+      "dlg": "Dullahan!\nTime to ride for death!"
     },
 	{
       "id": "battle_s3_10710_down_1",
@@ -6593,12 +6598,12 @@
 	{
       "id": "battle_s3_10512_1_2-02",
       "desc": "",
-      "dlg": "Full Barrage!"
+      "dlg": "Full Barrage...!"
     },
 	{
       "id": "battle_s3_10512_1_2-03",
       "desc": "",
-      "dlg": "Full Barrage."
+      "dlg": "Full Barrage..."
     },
 	{
       "id": "battle_s4_10512_1",
@@ -6613,7 +6618,7 @@
 	{
       "id": "battle_s3_10512_1_2-01",
       "desc": "",
-      "dlg": "Full Barrage!"
+      "dlg": "Full Barrage!!"
     },
 
 	
@@ -6799,7 +6804,7 @@
 	{
       "id": "battle_s3_hysteric_10312_1_3-02",
       "desc": "",
-      "dlg": "Disappear...! Agh, nngh..."
+      "dlg": "Disappear...!"
     },
 	{
       "id": "came_out_of_hysterical_10312_1",

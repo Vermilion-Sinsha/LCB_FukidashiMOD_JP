@@ -1,72 +1,61 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities!
+# Limbus Company 日本語ふきだし表示MOD
+罪悪共鳴残酷RPG『[Limbus Company](https://limbuscompany.jp/)』を日本語でもっと楽しむためのカスタム翻訳ファイル
+<img src="https://github.com/user-attachments/assets/bd690490-8a59-47b5-81c9-7a0e81e43def" />
 
-This mod adds speech bubbles for all characters with battle voicelines!
-(Including Untranslated Lines!)
+## 説明
+『Limbus Company』は韓国語フル音声のゲームであり、公式で日本語字幕がサポートされています。
 
-# Do NOTE That The Untranslated Voicelines are Unofficial Can Be Wrong at times!
-<img src="Screenshot/Hehehaha.png" alt="Hehehaha"/>
-<img src="Screenshot/LaShangure.png" alt="LaShangure"/>
-<img src="Screenshot/Shooting.png" alt="Shooting"/>
+しかし、戦闘中のセリフには日本語字幕が表示されないため、囚人たちや敵対キャラクターのセリフの内容が気になる管理人さんも多いことでしょう。
 
-## Installation
-### Whenever a new UPDATE happens, PLEASE DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like [softlocking](https://www.youtube.com/watch?v=nHrCFfdBMAA))
-### Honestly I recommend you to not use this mod at all when there is new story content, so finish and enjoy the new story first and then use the mod!
-1. Click **Code** → **Download ZIP** on this GitHub repository.
-2. Open or Extract the ZIP file.
-3. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
-Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_Data`
-      <img src="Screenshot/Browselocalfiless.png" alt="Browselocalfiless"/>
-      <img src="Screenshot/datass.png" alt="datass"/>
+LCB_FukidashiMOD_JPは、ProjectMoon公式が提供する[カスタム言語翻訳サポート機能](https://store.steampowered.com/news/app/1973530/view/533220039674824263)を用いて、戦闘中の囚人たち/敵のセリフに日本語のふきだしが表示されるようにするMODです。
 
-5. Drag the "Lang" folder from the ZIP file into the "LimbusCompany_Data" folder.
-      <img src="Screenshot/Likethis.png" alt="Likethis"/>
+上映館で確認できる攻撃開始/敵混乱/討伐時などのセリフ公式和訳の表示に加えて、スキル3発動などの未翻訳ボイス再生時は[LimbusCompany攻略Wiki](https://wikiwiki.jp/lcbwiki/)から引用した有志和訳を表示します。
 
-5. Launch the game, click on "Select Custom Language," choose **SpeechDialogBoxesEN - NotherWael**, and restart the game.  
-   - If it’s already selected, you can skip this step.
-   <img src="Screenshot/SelectTL.png" alt="SelectTL"/>
-6. Enjoy the mod!
-
-- To update, Delete `SpeechDialogBoxesEN - NotherWael` in the `Lang` folder, and put in the new one.
-  (This will remove your custom fonts, so add them back)
-- To disable this mod, simply remove the Lang Folder and restart the game, or Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
-## Custom Font Styles Instructions
-1. Click **Code** → **Download ZIP** on this GitHub repository.
-2. Open or Extract the ZIP file.
-3. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
-4. Open the 'Lang' folder and then 'SpeechDialogBoxesEN - NotherWael' folder
-5. Delete the 'Font' Folder
-6. From the ZIP file, Open 'Custom Fonts' folder & Choose a Style.
-7. Open the folder of the style you choose and copy the 'Font' folder
-8. Paste the 'Font' folder in the 'SpeechDialogBoxesEN - NotherWael' folder
-9. Done! & Restart the game if open.
+## インストール手順
+[公式告知](https://store.steampowered.com/news/app/1973530/view/533220039674824263)にて案内されているカスタム翻訳ファイルの作成方法も合わせて参照してください。
+1. このページの緑色の**Code**ボタンのメニューから**Download ZIP**を選び、MODをダウンロードします。
+2. ダウンロードしたZIPファイルを解凍します。
+3. Steamライブラリ等からLimbus Companyのインストール先フォルダにアクセスし、`LimbusCompany_Data`フォルダを開きます。
+   - デフォルトのインストール先は`C:/Program Files (x86)/Steam/steamapps/common/Limbus Company/LimbusCompany_Data`です。
+4. 解凍したZIPファイルの中に入っている`Lang`フォルダを、手順3で開いた`LimbusCompany_Data`の中にコピーします。
+5. `LimbusCompany_Data/Assets/Resources_moved/Localize/`に移動し、そこにある`jp`フォルダを適当な場所にコピーします。
+6. 手順5でコピーした`jp`フォルダの中にあるすべての.jsonファイルの名前から、先頭の「JP_」を削除します。子フォルダの中にも.jsonファイルが入っているので忘れずにリネームしてください。
+   - 例：「JP_MainUIText.json」→「MainUIText.json」
+7. 手順6で名前を変更した`jp`フォルダの中身を、手順4で作った`LimbusCompany_Data/Lang/LCB_FukidashiMOD_JP`の中に移動させます。
+      <img src="https://github.com/user-attachments/assets/522a3aaa-27d3-4c79-ace5-d82082580ea0" />
+8. `LimbusCompany_Data/Lang/LCB_FukidashiMOD_JP`の中にある`BattleSpeechBubbleDlg.json`の内容を、当MODの同名ファイルの内容で上書きします。
+9. ゲームを起動して、タイトル画面左下の「カスタム言語選択」ボタンから「LCB_FukidashiMOD_JP」を選択します。
+      <img src="https://github.com/user-attachments/assets/0db3f6f4-2fe8-49dc-b73b-ffe7200a1fd1" />
+10. MODが適用され、戦闘でふきだしが表示されるようになります！
+### ゲーム本体のアップデートが来るたびに、上記の手順5～8を行って字幕ファイルが最新の状態になるようにしてください。新規ストーリーや人格に対応する字幕ファイルが無い状態でゲームをプレイすると、ゲームがフリーズ・進行不能になる可能性があります。([参考動画](https://www.youtube.com/watch?v=nHrCFfdBMAA))
 
 
 ## Q&A
-1. Is this bannable?
-   - No! it's not, it's a custom language mod supported by PM, It just changes the localization files.
-   - PM stated "Please note that, modification of the game client beyond the language text files, such as modification of client images or in-game data could be met with legal action or bans without prior warning"
-   - This Mod only modifies langauge text files, so it's safe. [Link For the Notice](https://store.steampowered.com/news/app/1973530/view/533220039674824558)
+フォーク元である[NotherWael氏のリポジトリ](https://github.com/NotherWael/LimbusDialogueBoxes_EN)のQ&Aも合わせてご覧ください。
+1. このMODを使うとBANされますか？
+   - **公式の声明内容に違反しないように作られていますが、念の為ご利用の際は自己責任でお願いします。また、今後のProjectMoon公式の声明に応じて、当MODは予告なしに公開停止する可能性があります。**
+   - 当MODはProjectMoon公式が提供するカスタム言語翻訳サポート機能の範囲で作成されており、編集が許可された字幕ファイルのみを編集しています。[2025年4月1日の公式声明](https://store.steampowered.com/news/app/1973530/view/533220039674824558)において言及された、「言語テキストの変更範囲を越えたクライアントイメージの改ざんやデータ修正」は一切行っておりません。
+   - また、[2025年4月4日の声明](https://store.steampowered.com/news/app/1973530/view/533220673935376937)にて言及された、公式の意図に反するようなゲームプレイへの干渉効果は有しておりません。当MODは都市の世界観に深く没入することを目的としており、攻略・周回を不正に有利にするような効果は一切含んでおりません。
 
-2. How is this done?
-   - Using the file `BattleSpeechBubbleDlg.json` you can add your own speech bubble text! (just needs the Voiceline ID and the text.)
+2. ふきだしはどうやって表示しているんですか？
+   - 翻訳用ファイル内の`BattleSpeechBubbleDlg.json`を利用しています。これは8章以降のボイス有り敵キャラクターのセリフやハイライト人格の特殊セリフの翻訳に使うファイルですが、ボイスのIDと表示したいセリフを記述することで発言タイミングと同期したふきだしを表示できるのです！
 
-## Downsides & Issues
-### This covers every battle voiceline in the game!!! So there might be a few characters missing lines if I've missed them, or if I've put the wrong voiceline ID, LMK if there are any!
+## 仕様＆現在確認されている問題
+フォーク元であるNotherWael氏の翻訳ファイルと同様の問題が起こります…
+- 一部ボイスのふきだしが表示されない (下記項目を参照してください）  
+- フォントの幅が若干違う（ゲーム本体と同じコーポレート・ロゴVersion 10.025を使用していますが、字間がちょっと違うため改行位置がズレることがあります）
+- ゲーム自体の仕様として、カスタム言語機能の使用中はゲーム画面右下に小さなロゴが表示されます。また、右上の設定ボタンがやや緑色になります。
+- 起動が遅くなることがあるらしい（ユーザー側の環境にも依るみたいです）
+- ボイスの長さに応じて、ふきだしが長時間残るorすぐ消える
+- 撤退時ボイスのふきだしが、人格の交代後も表示され続ける
 
-- Some voicelines cannot display speech bubbles (e.g., Devyat's Polu or Full-stop Heathcliff in Overwatch state).  
-- Font may not match the base game... (like Mikodacs Font, not having Letter Spacing from the base game.) but you can use your own custom fonts!  
-- A green icon appears in the top-right corner during battle or story, indicates you are using a custom language mod.  
-- Game start-up screen menu loading may take ages! (though it might be cause of my weak device... so i'm not sure) 
-- Speech bubbles stay longer than they have to blocking visibility on skills during combat.
-- Speech bubbles can end early because of the previous speech bubble before it.
-- Retreating IDs VLs move their Speech bubbles to the Substituted ID.
+## 確認済みの正常にふきだしが表示されないボイス
+フォーク元であるNotherWael氏の翻訳ファイルと同様の問題が（略）
+- 北部ヂェーヴィチ協会シンクレア＆ロージャのポルードニツァのボイス（一部セリフは囚人側のふきだしに組み込んでいます）
+- 終止符ヒースの後方支援配置状態中のボイス（終止符ホンルのふきだしに組み込んでいますが、ボイスがランダムなため2種類ともふきだしに入れています）
+- N社軽蔑畏敬良秀とN社凶弾イサンの連携攻撃ボイス
+- 血鬼トリオが3人同時に出てくるステージにおける理髪師とドゥルシネーアの特殊開幕セリフ
 
-## Known Voicelines That Do Not Work
-- Devyat North Sinclair & Rodion All Poludnitsa Lines (Except the death ones cause i can fit it in with their death lines.)
-- Overwatch Assignment Full-stop Heathcliff Combo Voicelines (He's not in battle, i could try to put it with FS Hong Lu's line, but his line has two variants so... i guess i'll put both!)
-- N Corp Ryoshu and Yi Sang Skill Combo I Shall Fire // Anytime (Yeah the speech bubble just doesn't want to appear above her head at all, and yes i did check if it's the correct ID.)
-- Bloodfiend Trio Stage Turn Start VLs Don't Work Except for The Priest. (Their Skill VLs work tho... and some of these turn start voicelines do work on their respective stages.)
-
-## Credits
-Goliath for telling me how to do this, they make a Russian translation custom langauge mod.
-https://github.com/Divine-Company/DivineCompany_RussianTranslationDepartment
+## スペシャルサンクス
+ - NotherWael氏のふきだしMOD（英語版）https://github.com/NotherWael/LimbusDialogueBoxes_EN
+ - LimbusCompany攻略Wiki https://wikiwiki.jp/lcbwiki/

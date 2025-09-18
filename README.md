@@ -9,7 +9,7 @@ This mod adds speech bubbles for all characters with battle voicelines!
 <img src="Screenshot/Shooting.png" alt="Shooting"/>
 
 ## Installation
-### When new story content or identities are added, please DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like [softlocking](https://www.youtube.com/watch?v=nHrCFfdBMAA))
+### Whenever a new UPDATE happens, PLEASE DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like [softlocking](https://www.youtube.com/watch?v=nHrCFfdBMAA))
 ### Honestly I recommend you to not use this mod at all when there is new story content, so finish and enjoy the new story first and then use the mod!
 1. Click **Code** → **Download ZIP** on this GitHub repository.
 2. Open or Extract the ZIP file.

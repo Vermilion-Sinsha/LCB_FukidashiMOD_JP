@@ -26,7 +26,8 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
    <img src="Screenshot/SelectTL.png" alt="SelectTL"/>
 6. Enjoy the mod!
 
-- To update, do the same steps and replace the old files with the new ones.
+- To update, Delete `SpeechDialogBoxesEN - NotherWael` in the `Lang` folder, and put in the new one.
+  (This will remove your custom fonts, so add them back)
 - To disable this mod, simply remove the Lang Folder and restart the game, or Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
 ## Custom Font Styles Instructions
 1. Click **Code** → **Download ZIP** on this GitHub repository.
